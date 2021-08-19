@@ -15,7 +15,7 @@
 
 
 # Services 
-# Authservice Gateway for all apis
+# Authservice ( Gateway for all apis) 
     √ Docker
     √ JWT auth	
     √ Logger : Winsten
