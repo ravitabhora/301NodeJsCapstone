@@ -1,0 +1,110 @@
+{
+    "Chinese": [
+        {
+            "id": 11,
+            "name": "Hotpot. Hot Pot",
+            "price": 200
+        },
+        {
+            "id": 12,
+            "name": "Dumplings",
+            "price": 180
+        },
+        {
+            "id": 13,
+            "name": "Chow Mein",
+            "price": 150
+        },
+        {
+            "id": 14,
+            "name": "Fried Rice",
+            "price": 220
+        },
+        {
+            "id": 15,
+            "name": "Spring Rolls",
+            "price": 175
+        }
+    ],
+    "Italian": [
+        {
+            "id": 21,
+            "name": "Margherita Pizza",
+            "price": 200
+        },
+        {
+            "id": 22,
+            "name": "Garlic bread",
+            "price": 180
+        },
+        {
+            "id": 23,
+            "name": "Lasagna",
+            "price": 150
+        },
+        {
+            "id": 24,
+            "name": "Ravioli",
+            "price": 220
+        },
+        {
+            "id": 25,
+            "name": "Macaroni and cheese",
+            "price": 175
+        }
+    ],
+    "Indian": [
+        {
+            "id": 31,
+            "name": "Dal makhani",
+            "price": 170
+        },
+        {
+            "id": 32,
+            "name": "Samosa",
+            "price": 100
+        },
+        {
+            "id": 33,
+            "name": "Chickpea Potato Curry",
+            "price": 180
+        },
+        {
+            "id": 34,
+            "name": "Paneer Tikka",
+            "price": 210
+        },
+        {
+            "id": 35,
+            "name": "Biryani",
+            "price": 255
+        }
+    ],
+    "Thai": [
+        {
+            "id": 41,
+            "name": "Som Tum (Spicy Green Papaya Salad)",
+            "price": 170
+        },
+        {
+            "id": 42,
+            "name": "Pad Thai (Thai style Fried Noodles)",
+            "price": 180
+        },
+        {
+            "id": 43,
+            "name": "Kway Teow (noodle soup)",
+            "price": 200
+        },
+        {
+            "id": 44,
+            "name": "Tom Yum Goong (Spicy Soup)",
+            "price": 150
+        },
+        {
+            "id": 45,
+            "name": "Gaeng Daeng (Red Curry)",
+            "price": 185
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "restaurant-search-service",
+  "version": "1.0.0",
+  "description": "Service to search and get restaurant details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravita Kamra",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "axios": "^0.21.1",
+    "faker": "^5.5.3",
+    "mongodb": "^4.0.1",
+    "mongoose": "^5.13.5",
+    "redis": "^3.1.2",
+    "response-time": "^2.3.2",
+    "restify": "^8.5.1"
+  }
+}
