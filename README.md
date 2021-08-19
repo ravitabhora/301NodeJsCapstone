@@ -2,7 +2,7 @@
     √ Oops
     √ MicroServices
     √ Docker 
-    √ Radis 
+    √ Redis 
     √ RabbitMQ 
     √ Mocha 
     √ Chai 
@@ -14,8 +14,8 @@
     √ Winston
 
 
-Services : 
-**Authservice** Gateway for all apis
+# Services 
+# Authservice Gateway for all apis
     √ Docker
     √ JWT auth	
     √ Logger : Winsten
@@ -24,7 +24,7 @@ Services :
     √ RabbitMQ : publisher (for review update)
 
 
-**OrderService**
+# OrderService
     √ Mysql
     √ Swagger
     √ all CRUD
@@ -32,18 +32,18 @@ Services :
     √ Validation: Joi
     √ Tests (Facing issues )
 	
-**Customer-Services**
+# Customer-Services
     √ Mongo
     √ Crud
 
 
-**restuarant-services**
+# restuarant-services
     √ Mongo
     √ RabbitMQ: consumer
     √ Redis
 
 
-**review-services**
+# review-services
     √ RabbitMQ : publisher
     √ AWS : lamda ,
     √ DynamoDB, 
